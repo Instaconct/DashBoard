@@ -2,8 +2,6 @@
 
 A modern and responsive admin dashboard for managing customer conversations, company statistics, and social integrations — built using **Nuxt 3**, **TailwindCSS**, **shadcn-vue**, and **TypeScript**.
 
-![Instaconect Dashboard Screenshot]
-
 ## 🚀 Features
 
 - 🔐 Simple login system with client-side auth
